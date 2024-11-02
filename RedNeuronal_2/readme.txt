@@ -1,0 +1,1 @@
+Para cargar datos nuevos ejecutar interfaz.py
